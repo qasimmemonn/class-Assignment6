@@ -8,6 +8,11 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+       font1:['Roboto'],
+       font2:['Inter'],
+      
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
